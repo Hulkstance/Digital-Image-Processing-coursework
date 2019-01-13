@@ -1,3 +1,10 @@
 # Digital Image Processing coursework
 
-It has the capabilities to open and save Portable Gray Map (PGM) P2 images as well as save them as different formats like JPG, PNG or BMP. You can apply a minimum, a maximum or a median filter.
+PGM P2 Editor.
+
+# Features
+- Open PGM P2 images
+- Save PGM P2 image as PGM, JPG, PNG or BMP
+- Minimum, Maximum and Median Filters
+
+In the Debug folder you can find example PGM P2 pictures.
